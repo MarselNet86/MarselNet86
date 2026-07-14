@@ -23,5 +23,7 @@ Telegram: [marselnet](https://t.me/marselnet)
 Email: [marsel.shamsutdinov@icloud.com](mailto:marsel.shamsutdinov@icloud.com)
 <br>
 GitHub: [MarselNet86](https://github.com/MarselNet86)
+<br>
+Website: [marselnet86.github.io](https://marselnet86.github.io/)
 
 </div>
